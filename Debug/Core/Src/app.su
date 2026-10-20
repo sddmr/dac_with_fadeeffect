@@ -1,0 +1,3 @@
+../Core/Src/app.cpp:7:6:void DAC_LED_Fade()	8	static
+../Core/Src/app.cpp:19:6:void App_Init()	8	static
+../Core/Src/app.cpp:24:6:void App_Run()	8	static
